@@ -2,7 +2,7 @@ yum install bash-completion -y
 
 To add kubectl autocompletion to your current shell, run 
 
-#source <(kubectl completion bash).
+#source <(kubectl completion bash)
 
 To add kubectl autocompletion to your profile, so it is automatically loaded in future shells run:
 
